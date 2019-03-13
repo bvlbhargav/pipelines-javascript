@@ -1,5 +1,6 @@
-# Sample NodeJS application for Azure Pipelines docs
 [![Build Status](https://dev.azure.com/bhargavabotlaguduru0735/bhargavabotlaguduru/_apis/build/status/bvlbhargav.pipelines-javascript?branchName=master)](https://dev.azure.com/bhargavabotlaguduru0735/bhargavabotlaguduru/_build/latest?definitionId=1&branchName=master)
+
+# Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
